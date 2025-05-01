@@ -17,9 +17,14 @@ Connect a Python script to a SQLite database, query sales data, summarize total 
 
 ## Output
 
+Sales Chart
+
 ![sales_chart](https://github.com/user-attachments/assets/6e9e942c-1f1e-456a-ad85-b15cdd8fccc7)
 
-Sales Chart
+Sales Summary
+
+![Sales_Summary](https://github.com/user-attachments/assets/44ca2e1f-d453-4f0c-ba97-fedb4b270b2c)
+
 
 ## Anirban Kar
 - 01/05/2025
