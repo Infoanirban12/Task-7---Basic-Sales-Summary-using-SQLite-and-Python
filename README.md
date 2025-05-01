@@ -16,8 +16,9 @@ Connect a Python script to a SQLite database, query sales data, summarize total 
 - Saved the chart as PNG
 
 ## Output
-![sales_chart](![sales_chart](https://github.com/user-attachments/assets/da238696-83dd-44c6-a91f-e6d63731c810)
-)
+-Sales Chart
+![sales_chart](https://github.com/user-attachments/assets/6e9e942c-1f1e-456a-ad85-b15cdd8fccc7)
+
 
 ## Anirban Kar
 - 01/05/2025
